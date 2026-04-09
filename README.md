@@ -6,7 +6,7 @@ A simple and fun Stone Paper Scissors game built using HTML, CSS, and JavaScript
 
 ## ▶️ Run the Game
 
-👉 **[Click Here to Play](https://your-username.github.io/stone-paper-scissors/)**
+👉 **[Click Here to Play](https://kunalchauchan90-beep.github.io/Stone-paper-Scissors/)**
 
 ---
 
